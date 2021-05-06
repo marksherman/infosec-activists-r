@@ -35,6 +35,10 @@ Temporary Items
 *.log
 output/
 Rplots.pdf
+renv/library/
+renv/lock/
+renv/python/
+renv/staging/
 
 ## Hugo
 /public
